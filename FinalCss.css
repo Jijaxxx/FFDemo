@@ -50,13 +50,13 @@
 }
 
 .theme-entry .tab-box-tabs li a.selected span span {
-	background: #2A3982;
+	background: #2296F3;
 	color: white !important;
 	font-weight: bold;
 }
 
 .theme-entry .tab-box-tabs li a.selected span span:after {
-	border-left-color: #2A3982;
+	border-left-color: #2296F3;
 }
 
 .theme-entry .tab-box-tabs li a span span {
@@ -84,7 +84,7 @@
 .theme-entry .tab-box-tabs li a span span {
 	margin-top: 50px !important;
 }/*Image*/.tab-box-tabs li:nth-child(1) {
-	background-image: url("https://jijaxxx.github.io/FFDemo/img1.png") !important;
+	background-image: url("https://ffdemo.francecentral.cloudapp.azure.com/Runtime/Runtime/Runtime/Image.ashx?ImID=17") !important;
 	width: 30 px !important;
 	background-repeat: no-repeat !important;
 	background-position: 53% 0% !important;
@@ -92,7 +92,7 @@
 }
 
 .theme-entry .tab-box-tabs li:nth-child(2) {
-	background-image: url("https://jijaxxx.github.io/FFDemo/img2.png") !important;
+	background-image: url("https://ffdemo.francecentral.cloudapp.azure.com/Runtime/Runtime/Runtime/Image.ashx?ImID=15") !important;
 	width: 30 px !important;
 	background-repeat: no-repeat !important;
 	background-position: 53% 0% !important;
@@ -100,7 +100,7 @@
 }
 
 .theme-entry .tab-box-tabs li:nth-child(3) {
-	background-image: url("https://jijaxxx.github.io/FFDemo/img3.png") !important;
+	background-image: url("https://ffdemo.francecentral.cloudapp.azure.com/Runtime/Runtime/Runtime/Image.ashx?ImID=18") !important;
 	width: 30 px !important;
 	background-repeat: no-repeat !important;
 	background-position: 53% 0% !important;
@@ -108,12 +108,9 @@
 }
 
 .theme-entry .tab-box-tabs li:nth-child(4) {
-	background-image: url("https://jijaxxx.github.io/FFDemo/img4.png") !important;
+	background-image: url("https://ffdemo.francecentral.cloudapp.azure.com/Runtime/Runtime/Runtime/Image.ashx?ImID=19") !important;
 	width: 30 px !important;
 	background-repeat: no-repeat !important;
 	background-position: 53% 0% !important;
 	padding-left: 0px;
 }
-
-.theme-entry .tab-box ul.tab-box-tabs a.tab.selected .tab-wrapper { background-color: transparent !important; }
-.theme-entry .tab-box ul.tab-box-tabs a.tab.selected:hover { border: none !important; }
