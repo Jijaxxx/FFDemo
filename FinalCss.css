@@ -50,13 +50,13 @@
 }
 
 .theme-entry .tab-box-tabs li a.selected span span {
-	background: #2296F3;
+	background: #2A3982;
 	color: white !important;
 	font-weight: bold;
 }
 
 .theme-entry .tab-box-tabs li a.selected span span:after {
-	border-left-color: #2296F3;
+	border-left-color: #2A3982;
 }
 
 .theme-entry .tab-box-tabs li a span span {
@@ -108,9 +108,12 @@
 }
 
 .theme-entry .tab-box-tabs li:nth-child(4) {
-	background-image: url("https://ffdemo.francecentral.cloudapp.azure.com/Runtime/Runtime/Runtime/Image.ashx?ImID=19") !important;
+	background-image: url("https://jijaxxx.github.io/FFDemo/img4.png") !important;
 	width: 30 px !important;
 	background-repeat: no-repeat !important;
 	background-position: 53% 0% !important;
 	padding-left: 0px;
 }
+
+.theme-entry .tab-box ul.tab-box-tabs a.tab.selected .tab-wrapper { background-color: transparent !important; }
+.theme-entry .tab-box ul.tab-box-tabs a.tab.selected:hover { border: none !important; }
